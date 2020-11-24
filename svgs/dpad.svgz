@@ -4,8 +4,8 @@
 	 width="178.5px" height="104px" viewBox="-870 489 178.5 104" style="enable-background:new -870 489 178.5 104;"
 	 xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#8356D7;}
-	.st1{fill:#6441A5;}
+	.st0{fill:#f7da11;} /* parte clara */
+	.st1{fill:#c0ac15;} /* parte escure */
 	.st2{fill:#D3D3D3;}
 	.st3{opacity:0.25;fill:#000000;}
 </style>
